@@ -543,10 +543,8 @@
 							design sections, such as the skills section, which uses a clickable hexagon grid. 
 							I also extract SVG code from the images, so the images can be embedded into hexagon grids.
 							I also used a submittable form using <a href="https://usebasin.com/" target="_blank">Basin</a>, 
-							which is a static form endpoint solution.
-                        </p>
-                        <p class="lh-lg">
-                            It was a lot of fun making this website. I can't wait to show the world what I have accomplished.
+							which is a static form endpoint solution. It was a lot of fun making this website. 
+							I can't wait to show the world what I have accomplished.
                         </p>
                         <button type="button" class="rounded-pill btn-rounded border-primary">
                             <a href="https://github.com/iamdoublewei/iamdoublewei.github.io">
