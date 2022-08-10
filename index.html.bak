@@ -606,7 +606,7 @@
 						and required run-time memory footprint and demonstrates high implementation efficiency.
                     </p>
                     <button type="button" class="rounded-pill btn-rounded border-primary">
-                        <a href="https://ieeexplore.ieee.org/abstract/document/9516678">
+                        <a href="https://github.com/treysclark/MRTS-Dataset_ETL-Data-Analysis">
                             Show Publication
                             <span><i class="fas fa-arrow-right"></i></span>
                         </a>
