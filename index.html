@@ -141,6 +141,13 @@
         <!-- START THE CERTIFICATIONS CONTENT  -->
         <div class="container">
             <div class="row">
+			    <div class="col-md-4 col-lg-4">
+                    <div class="campanies__logo-box shadow-sm">
+                        <a target="_blank" href="https://coursera.org/share/2cd014f19b87cde4e2656fe204f61ca4">
+                            <img src="images/certifications/deep learning.png" class="img-fluid">
+                        </a>
+                    </div>
+                </div>
                 <div class="col-md-4 col-lg-4">
                     <div class="campanies__logo-box shadow-sm">
                         <a target="_blank" href="https://coursera.org/share/8b2563a3ec6a483470a7ec2c62cb071f">
@@ -812,6 +819,82 @@
 
         <!-- START THE CONTENT FOR THE PUBLICATIONS  -->
         <div class="container">
+            <!-- PAPER SEPERATOR  -->
+            <div class="row">
+                <div class="services__content">
+                    <h3 class="display-3--title mt-1">Intermittent OTA Code Update Framework for Tiny Energy Harvesting Devices</h3>
+                    <p class="lh-lg">
+						The widespread deployment of various tiny energy harvesting devices has facilitated the expansion of Internet of Things (IoT) 
+						applications, notably in remote and hard-to-reach areas. Once deployed, a critical limitation of these devices is their inability 
+						to adapt code to evolving environmental conditions or user requirements. This challenge primarily arises from frequent power 
+						interruptions during code updates in energy harvesting devices, unlike their battery-powered counterparts, which can lead to significant 
+						errors or system failures. In response, we have designed an innovative framework for facilitating intermittent over-the-air (OTA) code 
+						updates in tiny energy harvesting devices. Our approach incorporates Intermittent-aware Update Operations, including insert, modify, 
+						delete, and copy, tailored for a variety of update scenarios while accommodating intermittent power and resource constraints. Furthermore, 
+						We have designed a Fault-tolerant bootloader that enables the intermittent update capability. This advanced bootloader enables code 
+						updates without system reboots and ensures correct task resumption of both routine and update tasks. This not only conserves energy 
+						by reducing the need for repetitive reboots but also ensures consistent code updates despite frequent power failures. Additionally, 
+						our framework integrates an update-aware checkpointing mechanism to provide reliable backups for both routine tasks and update tasks. 
+						This proposed framework presents a general solution for enabling intermittent code updates in tiny energy harvesting devices. Our 
+						experimental results demonstrate that the proposed approach outperforms existing approaches under conditions of insufficient harvested energy.
+                    </p>
+                    <button type="button" class="rounded-pill btn-rounded border-primary">
+                        <a href="https://dl.acm.org/doi/abs/10.1109/TCAD.2024.3418396">
+                            Show Publication
+                            <span><i class="fas fa-arrow-right"></i></span>
+                        </a>
+                    </button>
+                </div>
+            </div>			
+            <!-- PAPER SEPERATOR  -->
+            <div class="row">
+                <div class="services__content">
+                    <h3 class="display-3--title mt-1">Energy-aware Incremental OTA Update for Flash-based Batteryless IoT Devices</h3>
+                    <p class="lh-lg">
+						Over-the-air (OTA) firmware updates are essential for updating and maintaining IoT devices, especially those batteryless 
+						devices reliant on energy harvesting power sources. Flash memory, favored for its low cost and high density, is extensively 
+						used for data storage in many IoT devices. However, due to its high energy demands for update operations, there is often 
+						insufficient energy for code updates. This paper proposes an incremental flash-based OTA update approach tailored for energy 
+						harvesting IoT devices, tackling the challenges brought by limited memory resources and fluctuating energy availability. Our 
+						approach is composed of three techniques: segment-based update packet design, deferred flash segment writes, and checkpoint-free 
+						update resumption. Segment-based update packet design segments firmware updates into smaller packets, each tailored for specific 
+						memory segments, thereby minimizing un-necessary flash operations and conserving energy. Deferred flash segment writes accumulate 
+						packets in Static Random-Access Memory (SRAM) for collective processing, reducing the frequency of energy-intensive operations. 
+						Crucially, our checkpoint-free update resumption ensures efficient recovery from power interruptions without significant energy cost 
+						on data backup. Through thorough experimental evaluation, we have observed that our approach significantly reduces the total energy 
+						consumed during OTA updates, and decreases the average total update time in energy harvesting environments.
+                    </p>
+                    <button type="button" class="rounded-pill btn-rounded border-primary">
+                        <a href="https://ieeexplore.ieee.org/document/10682769">
+                            Show Publication
+                            <span><i class="fas fa-arrow-right"></i></span>
+                        </a>
+                    </button>
+                </div>
+            </div>			
+            <!-- PAPER SEPERATOR  -->
+            <div class="row">
+                <div class="services__content">
+                    <h3 class="display-3--title mt-1">Autotile: Autonomous task-tiling for deep inference on battery-less embedded system</h3>
+                    <p class="lh-lg">
+                        Deep Neural Networks (DNNs) are increasingly applied in various intelligent applications for enhanced accuracy for 
+						in-situ decisionmaking. Considering the cost and longevity, those intelligent applications usually employ energy 
+						harvesting (EH) for power supply. Nevertheless, due to inherent intermittency, EH power can frequently disrupt the 
+						runtime operation, resulting in subsequent forward progress loss when executing long computations of DNN inference. 
+						To address this issue, DNN tiling has been employed where the input data is partitioned into multiple smaller tiles 
+						for efficient runtime operation. However, under the energy harvesting scenarios, the size of the tiles can influence 
+						runtime energy efficiency significantly under different EH conditions. Therefore, we proposed environmentally adaptive 
+						dynamic DNN tiling methods to optimize energy efficiency and runtime reliability. The experimental results on a real 
+						testbed show that the proposed technique can outperform the state-of-the-art methods by 19.24% on average.
+                    </p>
+                    <button type="button" class="rounded-pill btn-rounded border-primary">
+                        <a href="https://dl.acm.org/doi/10.1145/3649476.3658798">
+                            Show Publication
+                            <span><i class="fas fa-arrow-right"></i></span>
+                        </a>
+                    </button>
+                </div>
+            </div>		
             <!-- PAPER SEPERATOR  -->
             <div class="row">
                 <div class="services__content">
