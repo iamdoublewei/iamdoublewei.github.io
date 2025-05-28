@@ -3,10 +3,11 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /research/
-  - /research.html
 ---
+
+1. [Efficient machine learning systems](#mlsys)
+2. [Secure and Trustworthy AI/ML systems](#ai)
+
 
 ## Efficient machine learning systems <a name="mlsys"></a>
 My current research focuses on efficient algorithm design and mapping on existing computing platforms such as FPGA and GPU. [Medusa](https://sites.google.com/view/medusa-llm) is a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head. The overhead is much smaller than that of the draft model based speculative decoding design. 
