@@ -44,8 +44,3 @@ In 2025 26rd International Symposium on Quality Electronic Design
 - **Live OTA Update via Dynamic Dependency-Aware Scheduling in Energy Harvesting IoT Devices**    
 Wei, Wei, Jingye Xu, Sahidul Islam, Chen Pan, Dakai Zhu and Mimi Xie   
 Submitted to The 2025 International Conference on Computer-Aided Design
-
-### **Manuscript Under Preperation**
-
-- **OTA Update for Continuous Learning in Energy Harvesting IoT Devices**    
-Wei, Wei, Sahidul Islam, Chen Pan, and Mimi Xie  
