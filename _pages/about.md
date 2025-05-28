@@ -13,4 +13,7 @@ My research interests include over-the-air (OTA) updates and Tiny Machine Learni
 
 Recent News
 ======
-October, 2025
+January, 2025: Our paper "Energy-Adaptive Checkpoint-Free Intermittent Inference for Low Power Energy Harvesting Systems" 
+and "Energy-efficient Persistently Secure Block-based Differential Checkpointing for Energy Harvesting Devices" are accepted by ISQED'25.
+
+ 
