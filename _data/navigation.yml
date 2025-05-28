@@ -17,11 +17,8 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "CV"
     url: /files/Wei_Wei_s_CV.pdf
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
