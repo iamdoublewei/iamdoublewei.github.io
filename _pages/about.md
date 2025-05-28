@@ -17,4 +17,26 @@ Recent News
 and “Energy-efficient Persistently Secure Block-based Differential Checkpointing for Energy Harvesting Devices”, 
 have been accepted to **ISQED'25**.
 
+**August 2024**: Successfully defended dissertation proposal and became a Ph.D. Candidate.
+
+**July 2024**: Received NSF ISVLSI Student Travel Grant Award and the Graduate School Professional Development Travel Award.
+
+**June 2024**: Our paper “Intermittent OTA Code Update Framework for Tiny Energy Harvesting Devices” has been accepted to **TCAD**.
+
 **May 2024**: Our paper “Energy-aware Incremental OTA Update for Flash-based Batteryless IoT Devices” has been accepted to **ISVLSI'24**.
+
+**April 2024**: Our paper “Autotile: Autonomous Task-tiling for Deep Inference on Battery-less Embedded System” has been accepted to **GLSVLSI'24**.
+
+**September 2022**: Our paper “Construction Worker Ergonomic Assessment via LSTM-Based Multi-Task Learning Framework” has been accepted to **CRC'22**.
+
+**July 2022**: Attended DAC'22 Young Fellow Program.
+
+**March 2022**: Received the Graduate School Professional Development Travel Award.
+
+**January 2022**: Our paper “An Intermittent OTA Approach to Update the DL Weights on Energy Harvesting Devices” has been accepted to **ISQED'22**.
+
+**November 2021**: Attended DAC'21 Young Fellow Program.
+
+**June 2021**: Our paper “Memory-aware Efficient Deep Learning Mechanism for IoT Devices” has been accepted to **ASAP'21**.
+
+**December 2020**: Successfully passed the Ph.D. qualifying exam in the Department of Computer Science at UTSA.
