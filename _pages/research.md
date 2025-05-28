@@ -5,33 +5,27 @@ permalink: /research/
 author_profile: true
 ---
 
-1. [Efficient machine learning systems](#mlsys)
-2. [Secure and Trustworthy AI/ML systems](#ai)
+## Over-the-air Update for Energy Harvesting Resource Constraint System
+My research focuses on enabling robust and efficient over-the-air (OTA) update mechanisms for energy-harvesting IoT devices, which are increasingly deployed in remote and environmentally constrained settings. 
+While OTA update techniques are well-established for cable-powered systems, they often fail under the intermittent and unstable power conditions characteristic of energy-harvesting platforms.    
+To address these challenges, I explored update mechanisms tailored for intermittently powered devices, including incremental learning updates and flash memory-specific strategies. 
+Building on this foundation, I proposed a general OTA framework capable of supporting a wide range of applications and hardware, with resilience to varying energy conditions.
 
+### Featured Publications
 
-## Efficient machine learning systems <a name="mlsys"></a>
-My current research focuses on efficient algorithm design and mapping on existing computing platforms such as FPGA and GPU. [Medusa](https://sites.google.com/view/medusa-llm) is a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head. The overhead is much smaller than that of the draft model based speculative decoding design. 
-My [DAC22](https://arxiv.org/pdf/2208.03646) paper is a Transformer-based model mapping on FPGA which features sequence-length adaptive hardware design and re-designed linear complexity self-attention. My [ICCAD23](https://arxiv.org/abs/2308.11825) paper is a GNN mapping on GPU which features degree sorting, block-level partition and combined warp on GPU CUDA kernel, which maximizes GPU memory bandwidth and computational parallelism on SpMM operator. 
+- An Intermittent OTA Approach to Update the DL Weights on Energy Harvesting Devices    
+- Intermittent OTA Code Update Framework for Tiny Energy Harvesting Devices
+- Energy-aware Incremental OTA Update for Flash-based Batteryless IoT Devices    
 
-### **Featured open source project**
-- [Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://sites.google.com/view/medusa-llm), 2023. \[[Code](https://github.com/FasterDecoding/Medusa)\].
+## Intermittent TinyML Inference
+My research focuses on enabling efficient and reliable deep learning inference on intermittently powered, energy-harvesting IoT devices. 
+These devices operate under severe resource constraints and unpredictable power availability, which pose significant challenges to conventional machine learning techniques.     
+To overcome these challenges, I investigate lightweight and energy-adaptive inference strategies that ensure robust model execution despite frequent power interruptions. 
+My work aims to make TinyML feasible for real-world deployment in ultra-low-power environments by improving inference efficiency, maintaining model accuracy, 
+and eliminating the need for complex power management or checkpointing systems.
 
-### **Featured publications**
-- [MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training](https://arxiv.org/abs/2312.08656)  (**ASPLOS**), 2024. \[[Code](https://github.com/harveyp123/MaxK-GNN)\].
-- [Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks](https://arxiv.org/abs/2308.11825)  (**ICCAD**), 2023. \[[Code](https://github.com/xiexi1990/iccad-accel-gnn)\].
-- [A length adaptive algorithm-hardware co-design of transformer on fpga through sparse attention and dynamic pipelining](https://arxiv.org/pdf/2208.03646) (**DAC**), 2022, **publicity paper**!.
-- [Towards sparsification of graph neural networks](https://arxiv.org/pdf/2208.03646) (**ICCD**), 20022. \[[Code](https://github.com/harveyp123/ICCD_SpTrn_SLR)\].
-
-<br>
-
-## Secure and Trustworthy AI/ML systems <a name="ai"></a>
-
-My current research focuses on novel algorithms and hardware co-design for accelerating privacy-preserving machine learning, aiming to facilitate the practical deployment of PPML across various industries that interact with sensitive data, such as healthcare, biomedicine, banking, finance, etc.
-
-### **Featured publications**
-- [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](http://arxiv.org/abs/2309.14331) (**NeurIPS**), 2023. \[[Code](https://github.com/harveyp123/LinGCN-Neurips23)\].
-- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://dl.acm.org/doi/10.1145/3613424.3614297)(**MICRO**), 2023. 
-- [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#) (**ICCV**), 2023. \[[Code](https://github.com/harveyp123/AutoReP)\].
-- [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513) (**DAC**), 2023. \[[Code](https://github.com/HarveyP123/PASNet-DAC2023)\].
-
-<br>
+### Featured Publications
+- Memory-aware Efficient Deep Learning Mechanism for IoT Devices
+- Autotile: Autonomous Task-tiling for Deep Inference on Battery-less Embedded System
+- Energy-Adaptive Checkpoint-Free Intermittent Inference for Low Power Energy Harvesting Systems
+- Energy-efficient Persistently Secure Block-based Differential Checkpointing for Energy Harvesting
