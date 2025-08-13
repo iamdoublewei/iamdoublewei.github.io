@@ -39,8 +39,7 @@ In 2025 26rd International Symposium on Quality Electronic Design
 Palanisamy, Shyamala, Wei Wei, and Mimi Xie   
 In 2025 26rd International Symposium on Quality Electronic Design
 
-### **Manuscript Under Review**
+### **Manuscript In Preparation**
 
 - **Live OTA Update via Dynamic Dependency-Aware Scheduling in Energy Harvesting IoT Devices**    
 Wei, Wei, Jingye Xu, Sahidul Islam, Chen Pan, Dakai Zhu and Mimi Xie   
-Submitted to The 2025 International Conference on Computer-Aided Design
