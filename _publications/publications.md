@@ -46,5 +46,5 @@ Wei Wei, Jingye Xu, Sahidul Islam, Chen Pan, Dakai Zhu and Mimi Xie
 
 ### **Manuscript Under Preparation**
 
-- **Descriptor-Guided and Region-Aware Model Update for Energy Harvesting TinyML Devices**    
+- **Model Descriptor Table: Optimizing OTA Updates on Energy Harvesting TinyML Devices**    
 Wei Wei, Mohammad Sadegh Sirjani, Mohammad Ahmad, Sahidul Islam, Chen Pan and Mimi Xie   
