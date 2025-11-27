@@ -13,6 +13,8 @@ My research interests include over-the-air (OTA) updates and Tiny Machine Learni
 
 Recent News
 ======
+**November 2025**: Our paper “AERO: Adaptive and Efficient Runtime-Aware OTA Updates for Energy-Harvesting IoT” has been accepted to **DATE'26**.
+
 **January 2025**: Our papers, “Energy-Adaptive Checkpoint-Free Intermittent Inference for Low Power Energy Harvesting Systems” 
 and “Energy-efficient Persistently Secure Block-based Differential Checkpointing for Energy Harvesting Devices”, 
 have been accepted to **ISQED'25**.

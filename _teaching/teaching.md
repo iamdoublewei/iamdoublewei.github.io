@@ -14,3 +14,6 @@ author_profile: true
 - CS 5233 Artificial Intelligence (Fall 2023)
 - CS 4473-5723 Cryptocurrencies and Bitcoins (Fall 2023)
 - CS 5523 Operating Systems (Spring 2024)
+
+## Instructor
+- CS 2123 Data Structures — Java (Spring 2026)

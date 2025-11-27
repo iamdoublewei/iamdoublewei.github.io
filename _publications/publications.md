@@ -39,12 +39,16 @@ In 2025 26rd International Symposium on Quality Electronic Design
 Shyamala Palanisamy, Wei Wei, and Mimi Xie   
 In 2025 26rd International Symposium on Quality Electronic Design
 
-### **Manuscript Under Review**
+### **Accepted Papers**
 
-- **AERO: Adaptive and Efficient Runtime-Aware OTA Updates for Energy-Harvesting IoT**    
-Wei Wei, Jingye Xu, Sahidul Islam, Chen Pan, Dakai Zhu and Mimi Xie   
+- **\[DATE'26\]** **AERO: Adaptive and Efficient Runtime-Aware OTA Updates for Energy-Harvesting IoT**    
+Wei Wei, Jingye Xu, Sahidul Islam, Chen Pan, Dakai Zhu, and Mimi Xie   
+In 2026 Design, Automation & Test in Europe Conference & Exhibition
 
 ### **Manuscript Under Preparation**
 
-- **Model Descriptor Table: Optimizing OTA Updates on Energy Harvesting TinyML Devices**    
-Wei Wei, Mohammad Sadegh Sirjani, Mohammad Ahmad, Sahidul Islam, Chen Pan and Mimi Xie   
+- **Model-aware OTA Update Framework for TinyML on Energy Harvesting Devices**    
+Wei Wei, Mohammad Sadegh Sirjani, Mohammad Ahmad, Sahidul Islam, Chen Pan, and Mimi Xie
+
+- **SparseBeat: Adaptive Sparse Sensing for ECG Classification in Intermittent Energy-Harvesting Systems**    
+Mohammad Sadegh Sirjani, Mohammad Ahmad, Wei Wei, Pual Dutton, Dylan Yanez, Chen Pan, and Mimi Xie
