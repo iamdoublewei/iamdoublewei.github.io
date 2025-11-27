@@ -31,11 +31,11 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2
 Wei Wei, Jishnu Banerjee, Sahidul Islam, Chen Pan, and Mimi Xie   
 In 2024 IEEE Computer Society Annual Symposium on VLSI
 
-- **\[ISQED'25\]** **Energy-Adaptive Checkpoint-Free Intermittent Inference for Low Power Energy Harvesting Systems** 
+- **\[ISQED'25\]** **Energy-Adaptive Checkpoint-Free Intermittent Inference for Low Power Energy Harvesting Systems** [[PDF](https://ieeexplore.ieee.org/document/11014335)]   
 Sahidul Islam, Wei Wei, Jishnu Banerjee, and Chen Pan   
 In 2025 26rd International Symposium on Quality Electronic Design
 
-- **\[ISQED'25\]** **Energy-efficient Persistently Secure Block-based Differential Checkpointing for Energy Harvesting Devices**    
+- **\[ISQED'25\]** **Energy-efficient Persistently Secure Block-based Differential Checkpointing for Energy Harvesting Devices** [[PDF](https://ieeexplore.ieee.org/document/11014468)]   
 Shyamala Palanisamy, Wei Wei, and Mimi Xie   
 In 2025 26rd International Symposium on Quality Electronic Design
 
